@@ -6,7 +6,7 @@ Project built using Java Swing for the graphical user interface and Oracle Datab
 
 ##  Features
 
-### 👤 Customer Panel
+###  Customer Panel
 - Sign Up / Login
 - Deposit & Withdraw Funds
 - Transfer Funds to Other Accounts
@@ -42,7 +42,7 @@ Project built using Java Swing for the graphical user interface and Oracle Datab
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 BankManagementSystem/
 
