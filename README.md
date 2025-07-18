@@ -4,7 +4,7 @@ Project built using Java Swing for the graphical user interface and Oracle Datab
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 👤 Customer Panel
 - Sign Up / Login
@@ -13,25 +13,25 @@ Project built using Java Swing for the graphical user interface and Oracle Datab
 - View Account Balance
 - View Transaction History
 
-### 🧑‍💼 Staff Panel
+###  Staff Panel
 - Login
 - View New Customer Registrations
 - Approve or Reject Customer Accounts
 
-### 🏦 Loan Manager Panel
+###  Loan Manager Panel
 - Login
 - View Loan Applications
 - Approve / Reject Loan Requests
 - Track Loan History and Status
 
-### 🏧 ATM Simulation
+###  ATM Simulation
 - Login via ATM Panel
 - Check Balance
 - Withdraw Cash
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Java (Swing)** – Desktop GUI
 - **Oracle Database** – Persistent backend
@@ -42,7 +42,7 @@ Project built using Java Swing for the graphical user interface and Oracle Datab
 
 ---
 
-## 🗂️ Project Structure
+## 🗂 Project Structure
 
 BankManagementSystem/
 
@@ -59,13 +59,13 @@ BankManagementSystem/
 
 ---
 
-## ✅ Project Status
+##  Project Status
 
 This is my first end-to-end Java project built during the semester. It helped me gain practical experience in developing real-world applications using Java, Oracle DB, and JDBC.
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - GUI development with Java Swing
 - Structuring projects using DAO layers
@@ -75,11 +75,11 @@ This is my first end-to-end Java project built during the semester. It helped me
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Muhammad Ibraheem**  
 Connect with me on [LinkedIn](www.linkedin.com/in/muhammadbraheem1230) or reach out to discuss ideas or collaboration!
 
 ---
 
-### ⭐ Star this repository if you liked it or found it useful!
+###  Star this repository if you liked it or found it useful!
